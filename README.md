@@ -53,12 +53,6 @@ This repository will expand in phases:
 - Menu-driven applications
 - Mini systems (Student, Library, Banking)
 
-### Phase 3 — Structured Projects
-- CLI-based real-world simulations
-- Modular codebases
-- Clean architecture (separation of concerns)
-
----
 
 ## 🧠 Skills Being Built
 
@@ -87,22 +81,12 @@ By the end of BCA:
 - Ability to build structured, non-trivial programs
 - Transition readiness toward advanced domains (DSA, System Design, Backend)
 
-This repository will serve as:
-- A **progress log**
-- A **proof of discipline**
-- A **foundation for advanced work**
-
----
-
 ## 📎 Note
 
 This is an evolving repository.  
 The value here is not in volume, but in **progress over time**.
 
-If you're reviewing this, check commit history — not just current files.
+If you're reviewing this, check commit history — not just current files. May be some commits are delayed but they will be consistent.
 
 ---
 
-## 💻
-
-If you want to track a disciplined learning journey in public, you can follow this repository.
